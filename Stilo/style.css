@@ -134,7 +134,7 @@ div.video > iframe {
 article > h2 {
     font-family: var(--font-android);
     color: var(--cor4);
-    font-size: 2em;
+    font-size: 1.65em;
     background-image: linear-gradient(to right, var(--cor2), transparent);
     border-radius: 10px;
     text-indent: 10px;
