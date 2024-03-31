@@ -13,9 +13,6 @@
     padding: 0px;
 }
 
-
-
-
 :root {
     --cor0: #c5ebd6;
     --cor1: #83e1ad;
@@ -138,6 +135,7 @@ article > h2 {
     font-family: var(--font-android);
     color: var(--cor4);
     font-size: 1.8em;
+    padding: 15px;
     background-image: linear-gradient(to right, var(--cor2), transparent);
     border-radius: 20px;
     text-indent: 10px;
@@ -189,7 +187,7 @@ aside{
 aside ul {
     list-style-position: inside;
     columns: 2;
-    padding: 30px;
+    padding: 15px;
 }
 
 footer {
