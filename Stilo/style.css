@@ -134,11 +134,10 @@ div.video > iframe {
 article > h2 {
     font-family: var(--font-android);
     color: var(--cor4);
-    font-size: 1.8em;
-    padding: 15px;
+    font-size: 2em;
     background-image: linear-gradient(to right, var(--cor2), transparent);
-    border-radius: 20px;
-    text-indent: 10px;
+    border-radius: 10px;
+    text-indent: 20px;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.288);
     font-weight: normal;
 }
@@ -185,9 +184,9 @@ aside{
 }
 
 aside ul {
+    list-style-type: '\2714';
     list-style-position: inside;
     columns: 2;
-    padding: 15px;
 }
 
 footer {
